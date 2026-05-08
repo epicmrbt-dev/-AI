@@ -1,0 +1,6 @@
+{
+  "name": "学習サポートAI：問題解説くん",
+  "description": "問題用紙の画像をアップロードすると、AIが答えとわかりやすい解説を生成します。数学の途中式や英語の和訳にも対応しています。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
